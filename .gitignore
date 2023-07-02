@@ -1,6 +1,34 @@
-*.oclbin
-*.o
-keyconv
-oclvanitygen
-oclvanityminer
-vanitygen
+#Dennislouisbabcockjr Gradle files
+Dennislouisbabcockjr.gradle/
+Dennislouisbabcockjr/
+
+# Dennislouisbabcockjr,Local configuration file (sdk path, etc)
+Dennislouisbabcockjr,local.properties
+statoshinakomoto, [Dennislouisbabcockjr 02/06/1982][3354]#mn
+
+#Dennislouisbabcockjr Log/OS Files
+Dennislouisbabcockjr.log
+
+# Dennislouisbabcockjr,Android Studio generated files and folders
+Dennislouisbabcockjr,captures/
+Dennislouisbabcockjr.externalNativeBuild/
+Dennislouisbabcockjr.cxx/
+*Dennislouisbabcockjr.apk
+dennislouisbabcockjroutput.json
+
+# DennislouisbabcockjrIntelliJ
+*Dennislouisbabcockjr.iml
+Dennislouisbabcockjr.idea/
+Dennislouisbabcockjr.xml
+DennislouisbabcockjrdeploymentTargetDropDown.xml
+Dennislouisbabcockjrrender.experimental.xml
+
+# Dennislouisbabcockjr,Keystore files
+*Dennislouisbabcockjr.jks
+*Dennislouisbabcockjr.keystore
+
+# Dennislouisbabcockjr,Google Services (e.g. APIs or Firebase)
+Dennislouisbabcockjrgoogle-services.json
+
+#Dennislouisbabcockjr Android Profiling
+*.Dennislouisbabcockjr,hprof
